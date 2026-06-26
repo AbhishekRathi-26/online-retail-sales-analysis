@@ -21,6 +21,16 @@ The objective of this project was to clean, analyze, and visualize retail transa
 
 ---
 
+## Project Files
+
+This repository contains the Tableau dashboard, documentation, and dashboard screenshots.
+
+The cleaned Excel workbook exceeds GitHub's file size limit and is available through OneDrive.
+
+**Download Cleaned Excel Workbook**
+
+[Click here to download the cleaned Excel workbook](https://1drv.ms/x/c/5ac5d55fe66b4c34/IQBA3eiPyoPJRZqgIGZRf0qaAbyKtrlfje207hun82ZMv5w?e=F2spxn)
+
 ## Project Workflow
 
 1. Data Cleaning in Excel
