@@ -6,7 +6,7 @@ An end-to-end Data Analytics project built using **Excel, MySQL, and Tableau** t
 
 ## 📌 Project Overview
 
-This project uses the **Online Retail Dataset** from the UCI Machine Learning Repository, representing transactions of a UK-based online retail business specializing in giftware and home décor products.
+This project uses the Online Retail Dataset from the UCI Machine Learning Repository. The dataset contains transactions occurring between December 2010 and December 2011 for a UK-based registered non-store online retail business that primarily sells unique all-occasion gifts.
 
 The objective of this project was to clean, analyze, and visualize retail transaction data to generate actionable business insights through an interactive Tableau dashboard.
 
@@ -17,6 +17,7 @@ The objective of this project was to clean, analyze, and visualize retail transa
 - Microsoft Excel
 - MySQL
 - Tableau Public
+- GitHub
 
 ---
 
@@ -105,9 +106,10 @@ Online-Retail-Sales-Analysis/
 
 ## 📚 Dataset Source
 
-UCI Machine Learning Repository – Online Retail Dataset
+The dataset used in this project is the **Online Retail Dataset** from the **UCI Machine Learning Repository**.
 
-https://archive.ics.uci.edu/ml/datasets/Online+Retail
+Dataset Link:
+https://archive.ics.uci.edu/dataset/352/online+retail
 
 ---
 
