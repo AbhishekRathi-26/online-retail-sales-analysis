@@ -1,4 +1,5 @@
 # Online Retail Sales Analysis Dashboard
+![Dashboard](Dashboard.png)
 
 An end-to-end Data Analytics project built using **Excel, MySQL, and Tableau** to analyze retail sales performance, customer behavior, product performance, and geographical revenue distribution.
 
