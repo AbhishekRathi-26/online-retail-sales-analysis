@@ -1,10 +1,10 @@
-# 📊 Online Retail Sales Analysis Dashboard
+# Online Retail Sales Analysis Dashboard
 
 An end-to-end Data Analytics project built using **Excel, MySQL, and Tableau** to analyze retail sales performance, customer behavior, product performance, and geographical revenue distribution.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project uses the Online Retail Dataset from the UCI Machine Learning Repository. The dataset contains transactions occurring between December 2010 and December 2011 for a UK-based registered non-store online retail business that primarily sells unique all-occasion gifts.
 
@@ -12,7 +12,7 @@ The objective of this project was to clean, analyze, and visualize retail transa
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Excel
 - MySQL
@@ -21,7 +21,7 @@ The objective of this project was to clean, analyze, and visualize retail transa
 
 ---
 
-## 📂 Project Workflow
+## Project Workflow
 
 1. Data Cleaning in Excel
 2. Data Import into MySQL
@@ -32,7 +32,7 @@ The objective of this project was to clean, analyze, and visualize retail transa
 
 ---
 
-## 📈 Dashboard KPIs
+## Dashboard KPIs
 
 - Total Revenue
 - Total Orders
@@ -41,7 +41,7 @@ The objective of this project was to clean, analyze, and visualize retail transa
 
 ---
 
-## 📊 Dashboard Visualizations
+## Dashboard Visualizations
 
 - Monthly Revenue Trend
 - Revenue by Quarter
@@ -50,7 +50,7 @@ The objective of this project was to clean, analyze, and visualize retail transa
 
 ---
 
-## 💡 Key Business Insights
+## Key Business Insights
 
 - United Kingdom generated the highest revenue.
 - Q4 was the strongest performing quarter.
@@ -59,7 +59,7 @@ The objective of this project was to clean, analyze, and visualize retail transa
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Online-Retail-Sales-Analysis/
@@ -84,13 +84,13 @@ Online-Retail-Sales-Analysis/
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 (Add dashboard screenshot here after uploading the image.)
 
 ---
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Validation
@@ -104,7 +104,7 @@ Online-Retail-Sales-Analysis/
 
 ---
 
-## 📚 Dataset Source
+## Dataset Source
 
 The dataset used in this project is the **Online Retail Dataset** from the **UCI Machine Learning Repository**.
 
@@ -113,7 +113,7 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Abhishek Rathi**
 
